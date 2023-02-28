@@ -1,3 +1,3 @@
 - is awesome
 - is a languange I will learn
-
+- learning to git push is fun!
